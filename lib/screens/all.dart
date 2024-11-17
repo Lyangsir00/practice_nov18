@@ -41,6 +41,7 @@ class Demo {
   // Constructor to initialize the class properties
   Demo({required this.age, required this.names});
   void displayDemo() {
-    print("$names"); // Prints the name
+    print("$names"); 
+    
   }
 }
